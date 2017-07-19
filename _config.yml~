@@ -1,0 +1,14 @@
+theme: jekyll-theme-cayman
+title : Anna Yanchenko
+author :
+  name : Anna Yanchenko
+  email : ayanchenko17@gmail.com
+  github : aky4wn
+  
+
+# NOTE: If replacing this next line with your own URL, you likely want "https://" not "http://"
+production_url : https://aky4wn.github.io/
+
+# Tell Github to use the kramdown markdown interpreter
+# (see https://help.github.com/articles/migrating-your-pages-site-from-maruku)
+markdown: kramdown
