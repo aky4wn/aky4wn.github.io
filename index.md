@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Anna Yanchenko
-tagline: Easy websites with GitHub Pages
-description: Minimal tutorial on making a simple website with GitHub Pages
+tagline: Personal Webpage
+description: Blank
 ---
 
 
