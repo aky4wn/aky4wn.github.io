@@ -1,20 +1,12 @@
 - title: "About"
   href: "/aky4wn.github.io/about/"
   
-- title: "Music Theory"
-  href: "/aky4wn.github.io/theory/"  
+- title: "Research"
+  href: "/aky4wn.github.io/research/"  
   
-- title: "Generated Pieces"
-  href: "/aky4wn.github.io/pieces/"
-
-- title: "Sheet Music"
-  href: "/aky4wn.github.io/music/"
-  
-- title: "Supplementary Materials"
-  href: "/aky4wn.github.io/supplementary/"
-  
-- title: "Code"
+- title: "Projects and Code"
   href: "/aky4wn.github.io/code/"
+
 
 #- title: "CV"
 #  href: "/cv/"
