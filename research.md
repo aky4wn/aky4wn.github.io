@@ -5,7 +5,7 @@ permalink: /research/
 ---
 ## In Review
 
-- **Yanchenko, A.** and Mukherjee, S. (2017). "Classical Music Composition Using State Space Models."  [website](https://aky4wn.github.io/Classical-Music-Composition-Using-State-Space-Models/) [arXiv](https://arxiv.org/abs/1708.03822) 
+- **Yanchenko, A.** and Mukherjee, S. (2017). "Classical Music Composition Using State Space Models."  [website](https://aky4wn.github.io/Classical-Music-Composition-Using-State-Space-Models/) | [arXiv](https://arxiv.org/abs/1708.03822) 
 
 
 ## Published 
