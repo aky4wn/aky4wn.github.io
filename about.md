@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Time Series, Bayesian Statistics, Machine Learning
+Research Interests: Time Series, Bayesian Statistics, Machine Learning
