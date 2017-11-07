@@ -1,0 +1,31 @@
+- title: "About"
+  href: "/aky4wn.github.io/about/"
+  
+- title: "Music Theory"
+  href: "/aky4wn.github.io/theory/"  
+  
+- title: "Generated Pieces"
+  href: "/aky4wn.github.io/pieces/"
+
+- title: "Sheet Music"
+  href: "/aky4wn.github.io/music/"
+  
+- title: "Supplementary Materials"
+  href: "/aky4wn.github.io/supplementary/"
+  
+- title: "Code"
+  href: "/aky4wn.github.io/code/"
+
+#- title: "CV"
+#  href: "/cv/"
+
+#- title: "Blog"
+#  href: "/blog/"
+
+#- title: "Miscellany"
+#  href: "/miscellany/"
+#  subcategories:
+#    - subtitle: "Item 1"
+#      subhref: "/miscellany/item-1/"
+#    - subtitle: "Item 2"
+#      subhref: "/miscellany/item-2/"
