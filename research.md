@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Sheet Music
+title: Publications
 permalink: /research/
 ---
 
