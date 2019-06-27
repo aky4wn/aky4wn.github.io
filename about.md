@@ -11,20 +11,31 @@ In the News: Duke Today -  [Can we teach computers to make like Mendelssohn?](ht
 ## Education
 
 **Duke University**
-PhD Candidate in Statistical Sciences 
+
+PhD Candidate in Statistical Sciences
+
 Fall 2018 - Present
 
 **Duke University**
+
 Masters in Statistical Science
+
 May 2017
+
 Masters Thesis: Classical Music Composition Using Hidden Markov Models
+
 Advisor: Sayan Mukherjee
 
 **University of Virginia**
+
 BS in Physics - Highest Distinction
+
 BA in Mathematics
+
 Echols Scholar
+
 Phi Beta Kappa
+
 May 2015
 
 
