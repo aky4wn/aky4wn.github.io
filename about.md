@@ -13,6 +13,7 @@ In the News: Duke Today -  [Can we teach computers to make like Mendelssohn?](ht
 **Duke University**<br/>
 PhD Candidate in Statistical Sciences<br/>
 Fall 2018 - Present<br/>
+Advisors: Sayan Mukherjee and Peter Hoff<br/>
 
 **Duke University**<br/>
 Masters in Statistical Science<br/>
