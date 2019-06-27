@@ -23,9 +23,9 @@ Advisor: Sayan Mukherjee<br/>
 **University of Virginia**<br/>
 BS in Physics - Highest Distinction<br/>
 BA in Mathematics<br/>
+May 2015<br/>
 Echols Scholar<br/>
 Phi Beta Kappa<br/>
-May 2015<br/>
 
 
 ## Interests
