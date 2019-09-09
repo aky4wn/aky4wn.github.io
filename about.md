@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a first year PhD Candidate in Statistical Science at Duke University.  My research interests are broadly in time series, machine learning and Bayesian Statistics.  I am especially interested in applying machine learning models to the algorithmic composition of music.
+I am a second year PhD Candidate in Statistical Science at [Duke University](https://stat.duke.edu/).  My research interests are broadly in time series, machine learning and Bayesian Statistics.  I am especially interested in applying machine learning models to the algorithmic composition of music.
 
 In the News: Duke Today -  [Can we teach computers to make like Mendelssohn?](https://today.duke.edu/2017/12/can-we-teach-computers-make-mendelssohn)
 
@@ -36,4 +36,5 @@ Phi Beta Kappa<br/>
 - Algorithmic Composition
 
 ## Links
-- 
+- [LinkedIn](https://www.linkedin.com/in/anna-yanchenko/)
+- [Scholars@Duke](https://scholars.duke.edu/person/anna.yanchenko)
