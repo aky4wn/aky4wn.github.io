@@ -16,7 +16,3 @@ The main working example for this tutorial is the Gaussian Mixture Model.  The E
 
 This tutorial can be found on [GitHub](https://github.com/aky4wn/Tutorials/tree/master/Variational_Inference).
 
-
-## Coming Soon: Hidden Markov Models and Kalman Filters 
-
-Maximum likelihood, Markov Chain Monte Carlo and variational inference methods for sequential models, focusing on hidden Markov models and Kalman Filters.
