@@ -4,8 +4,10 @@ title: Projects and Code
 permalink: /code/
 ---
 
-< ## Network Analysis of Concert Programming
-Additive and Multiplicative Effects network models are applied to the Boston Symphony Orchestra's concert programming. Composer level effects are explored to determine which traits make two composers more likely to be programmed in the same concert together. [[Report]({{ site.url }}/Yanchenko_aky5_Final.pdf)].  This work was also presented as a poster at the Women in Machine Learning Workshop co-located at NeurIPS 2019 in Vancouver  [[Poster]({{ site.url }}/poster.pdf)]. Code written in ``R``.>
+<!---
+ ## Network Analysis of Concert Programming
+Additive and Multiplicative Effects network models are applied to the Boston Symphony Orchestra's concert programming. Composer level effects are explored to determine which traits make two composers more likely to be programmed in the same concert together. [[Report]({{ site.url }}/Yanchenko_aky5_Final.pdf)].  This work was also presented as a poster at the Women in Machine Learning Workshop co-located at NeurIPS 2019 in Vancouver  [[Poster]({{ site.url }}/poster.pdf)]. Code written in ``R``.
+-->
 
 ## Symphony2vec: Learning Musically Meaningful Embeddings for Orchestral Audio Data
 This project explored the use of Adversarially Learned Inference (ALI) to learn musically meaningful embeddings of orchestral audio data. The goal of this project was to develop a musically meaningful latent representation of orchestral audio recordings that could be used in later generative modeling tasks. The learned embeddings are evaluated on a downstream task of
