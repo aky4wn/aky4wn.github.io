@@ -12,6 +12,8 @@ One of my main long-term research goals is the generative modeling of classical,
 
 # Publications
 
+- **Yanchenko, A.** and Hoff, P. (2020). "Hierarchical Multidimensional Scaling for the Comparison of Musical Performance Styles." (Submitted) [[arXiv](https://arxiv.org/abs/2004.13870)]
+
 - **Yanchenko, A.** and Mukherjee, S. (2017). "Classical Music Composition Using State Space Models."  [[website](https://aky4wn.github.io/Classical-Music-Composition-Using-State-Space-Models/) || [arXiv](https://arxiv.org/abs/1708.03822)]
 
 - Bullough, B., **Yanchenko, A.**, Smith, C., Zipkin, J. (2017).  "Prediciting Exploitation of Disclosed Software Vulnerabilities Using Open-Source Data," *Proceedings of the 3rd ACM on International Workshop on Security and Privacy Analystics.* [[arXiv](https://arxiv.org/abs/1707.08015)]
