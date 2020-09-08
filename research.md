@@ -10,8 +10,7 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Hierarchical Multidimensional Scaling
 
-<img align="right" src="X-tsne-tempo2.png" width="400">
-![](X-tsne-tempo2.png)
+![](X-tsne-tempo2.png =250x)
 [[arXiv](https://arxiv.org/abs/2004.13870)]
 
 ## Personalized Forecasting
