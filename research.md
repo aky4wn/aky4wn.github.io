@@ -10,7 +10,7 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Hierarchical Multidimensional Scaling
 
-<img align="right" src="X-tsne-tempo2.png" width="200">
+<img align="right" src="X-tsne-tempo2.png" width="400">
 
 [[arXiv](https://arxiv.org/abs/2004.13870)]
 
