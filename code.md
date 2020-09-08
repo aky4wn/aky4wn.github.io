@@ -19,7 +19,7 @@ This project extended some of the previous HMM work for music composition as an 
 ## Music Generation with Factorial Hidden Markov Models
 This project explored the use of Factorial Hidden Markov Models (FHMMs) to compose classical piano music.  Three different inference algorithms are implemented and compared. The generated pieces tend to be more "original" than pieces generated with basic hidden Markov models, however, the generated pieces still lack in long-term structure.  [Code](https://github.com/aky4wn/Sta863_FHMM), [Report]({{ site.url }}/Yanchenko_FHMM_Report.pdf), [Generated Sample 1]({{ site.url }}/pachelbel_FHMM-GAM.mp3) and [Generated Sample 2]({{ site.url }}/pachelbel_FHMM-SVI.mp3). Code written in ``Python``.
 
-## Variational Inference Tutorail
+## Variational Inference Tutorial
 This tutorial provides an introduction to some important topics in variational inference.  Variational inference is a way to perform posterior inference via optimization, rather than sampling.  The Expectation-Maximization (EM) algorithm is also covered in this tutorial.  The main working example for this tutorial is the Gaussian Mixture Model.  The EM algorithm, variational inference and Markov Chain Monte Carlo methods are all applied to learn the parameters in the Gaussian mixture model.  Inference procedures for each method are derived and discussed. Finally, Latent Dirichlet Allocation is presented as a slightly more advanced example of variational inference.  This tutorial can be found on [GitHub](https://github.com/aky4wn/Tutorials/tree/master/Variational_Inference).
 
 ## NCAA Basketball Tournament Prediction
