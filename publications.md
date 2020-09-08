@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tutorials
-permalink: /tutorials/
+title: Publications
+permalink: /publications/
 ---
 
 Tutorials with equation derivations, explanations and code for various machine learning and statistics topics.  These tutorials are intended as introductions for current topics in machine learning, with a focus on derivation of results and accompanying code to demonstrate results. All tutorials can be found on [GitHub](https://github.com/aky4wn/Tutorials).
