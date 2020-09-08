@@ -20,7 +20,7 @@ Masters Thesis: *Classical Music Composition Using Hidden Markov Models* <br/>
 Advisor: Sayan Mukherjee<br/>
 
 **University of Virginia**<br/>
-BS in Physics - Highest Distinction and BA in Mathematics, May 2015<br/>
+BS in Physics with Highest Distinction and BA in Mathematics, May 2015<br/>
 Echols Scholar<br/>
 Phi Beta Kappa<br/>
 
