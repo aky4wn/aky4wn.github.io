@@ -15,6 +15,9 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Personalized Forecasting
 
+![](X-tsne-tempo2.png)
+
+
 
 ## Stanza
 
