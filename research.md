@@ -15,7 +15,7 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Personalized Forecasting
 
-![](X-tsne-tempo2.png){:height="200px" width="250px"}
+![](X-tsne-tempo2.png)
 
 
 
