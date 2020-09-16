@@ -17,7 +17,7 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Personalized Forecasting
 
-![](X-tsne-tempo2.png | width=100)
+![](X-tsne-tempo2.png){:height="50%" width="50%"}
 
 - A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
 
