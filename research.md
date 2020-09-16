@@ -21,11 +21,19 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ![](X-tsne-tempo2.png)
 
-
+- A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
 
 ## Stanza
 
 - A.K. Yanchenko and S. Mukherjee. **Stanza: A Nonlinear State Space Model for Probabilistic Inference in Non-Stationary Time Series.** 2020. [[arXiv](https://arxiv.org/abs/2006.06553)]
+
+## Audio Representation Learning
+
+
+## Network Modeling
+
+
+
 
 # Algorithmic Composition
 
