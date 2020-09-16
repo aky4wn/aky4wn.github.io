@@ -33,7 +33,7 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Audio Representation Learning
 
-Representation learning for audio signals is a challenging task, especially for complex signals arising from orchestral classical music.  This ongoing project looks to extend preliminary findings in the [[Symphony2Vec](https://aky4wn.github.io/code/)] project to learn a meaningful, disentangled latent representation for complex audio with known long term structure.
+Representation learning for audio signals is a challenging task, especially for complex signals arising from orchestral classical music.  This ongoing project looks to extend preliminary findings in the [Symphony2Vec](https://aky4wn.github.io/code/) project to learn a meaningful, disentangled latent representation for complex audio with known long term structure.
 
 
 
