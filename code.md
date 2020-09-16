@@ -5,7 +5,7 @@ permalink: /code/
 ---
 
 
- ## Network Analysis of Concert Programming
+## Network Analysis of Concert Programming
 Additive and Multiplicative Effects network models are applied to the Boston Symphony Orchestra's concert programming. Composer level effects are explored to determine which traits make two composers more likely to be programmed in the same concert together. *arXiv* and [Code](https://github.com/aky4wn/Network-Programming).  This work was also presented as a poster at the Women in Machine Learning Workshop co-located at NeurIPS 2019 in Vancouver  [[Poster]({{ site.url }}/poster.pdf)]. Code written in ``R``.
 
 
