@@ -9,6 +9,8 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Hierarchical Multidimensional Scaling
 
+We develop a hierarchical multidimensional scaling (HMDS) method to quantify systematic differences across heterogeneous, replicate distance matrices, where each replication has its own potential for variation.  HMDS allows for the systematic component of each replicate distance matrix to be non-Euclidean and can separate variation due to a non-Euclidean mean distance from measurement error. We apply the proposed HMDS model and develop an audio pre-processing methodology to quantify the differences between 10 different orchestras across the 9 Beethoven symphonies.
+ 
 ![](X-tsne-tempo2.png){:height="50%" width="50%"}
 
 
