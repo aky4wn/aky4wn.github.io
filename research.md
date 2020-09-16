@@ -9,7 +9,7 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Hierarchical Multidimensional Scaling
 
-<img align="right" src="X-tsne-tempo2.png" width="200">
+![](X-tsne-tempo2.png){:height="50%" width="50%"}
 
 
 - A.K. Yanchenko and P.D. Hoff. **Hierarchical Multidimensional Scaling for the Comparison of Musical Performance Styles.** *Annals of Applied Statistics*, to appear, 2020. [[arXiv](https://arxiv.org/abs/2004.13870) \| [code](https://github.com/aky4wn/HMDS)]
@@ -17,13 +17,12 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Personalized Forecasting
 
-![](X-tsne-tempo2.png){:height="50%" width="50%"}
 
 - A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
 
 ## Stanza
 
-
+![](Lorenz-r=5.png){:height="50%" width="50%"}
 
 - A.K. Yanchenko and S. Mukherjee. **Stanza: A Nonlinear State Space Model for Probabilistic Inference in Non-Stationary Time Series.** 2020. [[arXiv](https://arxiv.org/abs/2006.06553)]
 
