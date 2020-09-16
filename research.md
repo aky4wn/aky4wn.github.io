@@ -9,22 +9,27 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 ## Hierarchical Multidimensional Scaling
 
+
+![](X-tsne-tempo2.png){:style="float: right; height="50%" width="50%"}
 We develop a hierarchical multidimensional scaling (HMDS) method to quantify systematic differences across heterogeneous, replicate distance matrices, where each replication has its own potential for variation.  HMDS allows for the systematic component of each replicate distance matrix to be non-Euclidean and can separate variation due to a non-Euclidean mean distance from measurement error. We apply the proposed HMDS model and develop an audio pre-processing methodology to quantify the differences between 10 different orchestras across the 9 Beethoven symphonies.
  
-![](X-tsne-tempo2.png){:style="float: right; height="50%" width="50%"}
-
 
 - A.K. Yanchenko and P.D. Hoff. **Hierarchical Multidimensional Scaling for the Comparison of Musical Performance Styles.** *Annals of Applied Statistics*, to appear, 2020. [[arXiv](https://arxiv.org/abs/2004.13870) \| [code](https://github.com/aky4wn/HMDS)]
 
 
 ## Personalized Forecasting
 
+This project focuses on personalized forecasting of many time series in a retail setting.  We require models that are probabilistic, hierarchical and interpretable to improve forecasting of heterogeneous individual-level purchasing trends.  Probabilistic inference and forecasting allows for downstream decisions and interventions in the model.
+
 
 - A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
 
 ## Stanza
 
-![](Lorenz-r=5.png){:height="50%" width="50%"}
+![](Lorenz-r=5.png){:style="float: right; height="50%" width="50%"}
+Stanza is a nonlinear, non-stationary state space model designed to balance competitive forecasting accuracy and probabilistic, interpretable inference for structured time series. Stanza is intended as an intermediate approach between traditional state space models and full attention-based deep learning approaches.   
+
+
 
 - A.K. Yanchenko and S. Mukherjee. **Stanza: A Nonlinear State Space Model for Probabilistic Inference in Non-Stationary Time Series.** 2020. [[arXiv](https://arxiv.org/abs/2006.06553)]
 
