@@ -16,7 +16,7 @@ permalink: /publications/
 
 # Preprints
 
-- A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** 2020. *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly)
+- A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
 
 - A.K. Yanchenko and S. Mukherjee. **Stanza: A Nonlinear State Space Model for Probabilistic Inference in Non-Stationary Time Series.** 2020. [[arXiv](https://arxiv.org/abs/2006.06553)]
 
