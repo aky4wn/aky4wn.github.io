@@ -4,14 +4,13 @@ title: Research
 permalink: /research/
 ---
 
-My current research projects focus broadly on probabilistic modeling for complex time series, with applications for audio data and retail demand forecasting.
+My current research projects focus broadly on probabilistic modeling for complex time series, with applications for audio data and retail demand forecasting.  I am particularly interested in developing models that accurately represent uncertainty and capture hierarchical structure in complex data settings.
 
 # Current Projects
 
 ## Hierarchical Multidimensional Scaling
 
 <img align="right" src="X-tsne-tempo2.png" width="200">
-[[arXiv](https://arxiv.org/abs/2004.13870)]
 
 
 - A.K. Yanchenko and P.D. Hoff. **Hierarchical Multidimensional Scaling for the Comparison of Musical Performance Styles.** *Annals of Applied Statistics*, to appear, 2020. [[arXiv](https://arxiv.org/abs/2004.13870) \| [code](https://github.com/aky4wn/HMDS)]
