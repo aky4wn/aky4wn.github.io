@@ -11,7 +11,7 @@ My current research projects focus broadly on probabilistic modeling for complex
 
 
 ![](X-tsne-tempo2.png){:style="float: right; height="50%" width="50%"}
-We develop a hierarchical multidimensional scaling (HMDS) method to quantify systematic differences across heterogeneous, replicate distance matrices, where each replication has its own potential for variation.  HMDS allows for the systematic component of each replicate distance matrix to be non-Euclidean and can separate variation due to a non-Euclidean mean distance from measurement error. We apply the proposed HMDS model and develop an audio pre-processing methodology to quantify the differences between 10 different orchestras across the 9 Beethoven symphonies.
+We develop a hierarchical multidimensional scaling (HMDS) method to quantify systematic differences across heterogeneous, replicate distance matrices, where each replication has its own potential for variation.  HMDS allows for the systematic component of each replicate distance matrix to be non-Euclidean and can separate variation due to a non-Euclidean mean distance from measurement error. We develop an audio pre-processing methodology and apply the proposed HMDS model to quantify the differences between 10 different orchestras across the 9 Beethoven symphonies.
  
 
 - A.K. Yanchenko and P.D. Hoff. **Hierarchical Multidimensional Scaling for the Comparison of Musical Performance Styles.** *Annals of Applied Statistics*, to appear, 2020. [[arXiv](https://arxiv.org/abs/2004.13870) \| [code](https://github.com/aky4wn/HMDS)]
