@@ -26,7 +26,7 @@ This project focuses on personalized forecasting of many time series in a retail
 
 ## Stanza
 
-![](Lorenz-r=5.png){:style="float: right; height="50%" width="50%"}
+![](Lorenz-r=5.png){:style="float: right; height="40%" width="40%"}
 Stanza is a nonlinear, non-stationary state space model designed to balance competitive forecasting accuracy and probabilistic, interpretable inference for structured time series. Stanza is intended as an intermediate approach between traditional state space models and full attention-based deep learning approaches.   
 
 
