@@ -11,7 +11,7 @@ In the News: Duke Today -  [Can we teach computers to make like Mendelssohn?](ht
 ## Education
 
 **Duke University**<br/>
-PhD Candidate in Statistical Sciences, Fall 2018 - Present<br/>
+PhD Candidate in Statistical Science, Fall 2018 - Present<br/>
 Advisor: Sayan Mukherjee<br/>
 
 **Duke University**<br/>
