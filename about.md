@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a third year PhD Candidate in Statistical Science at [Duke University](https://stat.duke.edu/) working with [Sayan Mukherjee](https://sayanmuk.github.io), [Mike West](http://www2.stat.duke.edu/~mw/) and [Peter Hoff](https://pdhoff.github.io).  My research interests are broadly in time series, machine learning and Bayesian Statistics.  Current research projects focus on probabilistic modeling for complex time series.  
+I am a third year PhD Candidate in Statistical Science at [Duke University](https://stat.duke.edu/) working with [Sayan Mukherjee](https://sayanmuk.github.io), [Mike West](http://www2.stat.duke.edu/~mw/) and [Peter Hoff](https://pdhoff.github.io).  My research interests are broadly in time series, machine learning and Bayesian inference.  Current research projects focus on probabilistic modeling for complex time series.  
 
 In the News: Duke Today -  [Can we teach computers to make like Mendelssohn?](https://today.duke.edu/2017/12/can-we-teach-computers-make-mendelssohn)
 
