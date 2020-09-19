@@ -6,7 +6,7 @@ permalink: /code/
 
 
 ## Network Analysis of Concert Programming
-Additive and Multiplicative Effects network models are applied to the Boston Symphony Orchestra's concert programming. Composer level effects are explored to determine which traits make two composers more likely to be programmed in the same concert together. [arXiv](https://arxiv.org/abs/2009.07887) and [Code](https://github.com/aky4wn/Network-Programming).  This work was also presented as a poster at the Women in Machine Learning Workshop co-located at NeurIPS 2019 in Vancouver  [Poster]({{ site.url }}/poster.pdf). Code written in ``R``.
+Additive and Multiplicative Effects network models are applied to the Boston Symphony Orchestra's concert programming. Composer level effects are explored to determine which traits make two composers more likely to be programmed in the same concert together. [arXiv](https://arxiv.org/abs/2009.07887) and [Code](https://github.com/aky4wn/Network-Programming).  This work was also presented as a poster at the Women in Machine Learning Workshop co-located at NeurIPS 2019 in Vancouver  ([Poster]({{ site.url }}/poster.pdf)). Code written in ``R``.
 
 
 ## Symphony2vec: Learning Musically Meaningful Embeddings for Orchestral Audio Data
@@ -29,7 +29,7 @@ Various machine learning models are used to try to predict the outcome of the NC
 Dynamic Dependency Network Models (DDNMs) are used to model a four part piano piece, which each voice modeled distinctly.  The DDNM models are succesful at capturing some of the harmony and dependencies between the voices. [Report]({{ site.url }}/Yanchenko_aky5_Sta642_Report.pdf) and [Generated Sample]({{ site.url }}/DDNM.mp3). Code written in ``Python``.
 
 ## Latent Dirichlet Allocation
-Latent Dirichlet Allocation is implemented from scratch in Python. The implementation is analyzed and applied to movie review data as an example. [Code](https://github.com/aky4wn/663FinalProject). Code written in ``Python``.
+Latent Dirichlet Allocation is implemented from scratch in Python. The implementation is analyzed and applied to movie review data as an example ([Code](https://github.com/aky4wn/663FinalProject)). Code written in ``Python``.
 
 ## R Coding Projects
 Various R programming projects, including predicting US airline delays ([Code](https://github.com/aky4wn/Predictive-Modeling---Airline-Delays)), comparing NYC boroughs ([Code](https://github.com/aky4wn/NYC-Boroughs-Modeling)), building a simple Shiny application ([Code](https://github.com/aky4wn/Shiny-Bayesian-Analysis)), exploring grpahs in R ([Code](https://github.com/aky4wn/Graphs-in-R)) and using web scraping methods to analyze the locations of restaurants and hotels ([Code](https://github.com/aky4wn/Web-Scraping)). Code written in ``R``.
