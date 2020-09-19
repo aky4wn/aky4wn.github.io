@@ -4,9 +4,17 @@ title: Publications
 permalink: /publications/
 ---
 
+# Preprints
 
+- A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
 
-# Published
+- A. K. Yanchenko. **Network Analysis of Orchestral Concert Programming.** 2020. [[arXiv](https://arxiv.org/abs/2009.07887)  \| [code](https://github.com/aky4wn/Network-Programming)]
+
+- A.K. Yanchenko and S. Mukherjee. **Stanza: A Nonlinear State Space Model for Probabilistic Inference in Non-Stationary Time Series.** 2020. [[arXiv](https://arxiv.org/abs/2006.06553)]
+
+- A.K. Yanchenko and S. Mukherjee. **Classical Music Composition Using State Space Models.** 2018.  [[arXiv](https://arxiv.org/abs/1708.03822) \| [website](https://aky4wn.github.io/Classical-Music-Composition-Using-State-Space-Models/) \| [code](https://github.com/aky4wn/Classical-Music-Composition-Using-State-Space-Models)]
+
+# Publications
 
 - A.K. Yanchenko and P.D. Hoff. **Hierarchical Multidimensional Scaling for the Comparison of Musical Performance Styles.** *Annals of Applied Statistics*, to appear, 2020. [[arXiv](https://arxiv.org/abs/2004.13870) \| [code](https://github.com/aky4wn/HMDS)]
 
@@ -14,10 +22,4 @@ permalink: /publications/
 
 - R.B. Davidson, A.K. Yanchenko, J.I. Ziegler, S.M. Avanesyan, B.J. Lawrie and R.F. Haglund, Jr. **Ultrafast Plasmonic Control of Second Harmonic Generation.** *ACS Photonics,* 3(8):1477-1481, 2016.
 
-# Preprints
 
-- A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
-
-- A.K. Yanchenko and S. Mukherjee. **Stanza: A Nonlinear State Space Model for Probabilistic Inference in Non-Stationary Time Series.** 2020. [[arXiv](https://arxiv.org/abs/2006.06553)]
-
-- A.K. Yanchenko and S. Mukherjee. **Classical Music Composition Using State Space Models.** 2018.  [[arXiv](https://arxiv.org/abs/1708.03822) \| [website](https://aky4wn.github.io/Classical-Music-Composition-Using-State-Space-Models/) \| [code](https://github.com/aky4wn/Classical-Music-Composition-Using-State-Space-Models)]
