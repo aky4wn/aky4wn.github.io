@@ -22,7 +22,7 @@ We develop a hierarchical multidimensional scaling (HMDS) method to quantify sys
 This project focuses on personalized forecasting of many time series in a retail setting.  We require models that are probabilistic, hierarchical and interpretable to improve forecasting of heterogeneous individual-level purchasing trends.  Probabilistic inference and forecasting allows for downstream decisions and interventions in the model.
 
 
-- A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
+- A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic Hierarchical Dynamic Modelling for Individualized Forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
 
 ## Stanza
 
