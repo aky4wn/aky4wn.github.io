@@ -6,7 +6,7 @@ permalink: /publications/
 
 # Preprints
 
-- A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic hierarchical dynamic modelling for individualized forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
+- A.K. Yanchenko, D. Deng, C. Li, A.J. Cron and M. West. **Probabilistic Hierarchical Dynamic Modelling for Individualized Forecasting.** *Technical Report, Department of Statistical Science, Duke University.* (to be submitted shortly) 2020.
 
 - A. K. Yanchenko. **Network Analysis of Orchestral Concert Programming.** 2020. [[arXiv](https://arxiv.org/abs/2009.07887)  \| [code](https://github.com/aky4wn/Network-Programming)]
 
