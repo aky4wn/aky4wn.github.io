@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My current research projects focus broadly on probabilistic modeling for complex time series, with applications for audio data and retail demand forecasting.  I am particularly interested in developing models that accurately represent uncertainty and capture hierarchical structure in complex data settings.
+My current research projects focus broadly on probabilistic modeling for time series, with applications for audio data and retail demand forecasting.  I am particularly interested in developing models that accurately represent uncertainty and capture hierarchical structure in complex data settings.
 
 
 ## Hierarchical Multidimensional Scaling
