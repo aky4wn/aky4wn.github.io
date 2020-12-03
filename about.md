@@ -4,6 +4,10 @@ title: About
 permalink: /about/
 ---
 
+![](X-tsne-tempo2.png){:style="float: right; height="50%" width="50%"}
+
+
+
 ## Education
 
 **Duke University**<br/>
