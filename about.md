@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 
-<a href="url"><img src="https://aky4wn.github.io/Anna Yanchenko  002.png" height="auto" width="200" style="border-radius:70%"></a>
+<a href="url"><img src="https://aky4wn.github.io/Anna Yanchenko  002.png" height="auto" width="200" style="border-radius:70%;float: left"></a>
 
 ## Education
 
