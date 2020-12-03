@@ -20,6 +20,4 @@ BS in Physics with Highest Distinction and BA in Mathematics, May 2015<br/>
 Echols Scholar<br/>
 Phi Beta Kappa<br/>
 
-## Links
-- [LinkedIn](https://www.linkedin.com/in/anna-yanchenko/)
-- [Scholars@Duke](https://scholars.duke.edu/person/anna.yanchenko)
+## Research Interests
