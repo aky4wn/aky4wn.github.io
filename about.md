@@ -4,9 +4,8 @@ title: About
 permalink: /about/
 ---
 
-![](X-tsne-tempo2.png){:style="float: right; height="50%" width="50%"}
 
-<a href="url"><img src="https://desmond75.github.io/img/IMG_20171214_095012.jpg" height="auto" width="200" style="border-radius:50%"></a>
+<a href="url"><img src="https://aky4wn.github.io/Anna Yanchenko  002.png" height="auto" width="200" style="border-radius:50%"></a>
 
 ## Education
 
