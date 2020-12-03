@@ -11,7 +11,7 @@ permalink: /about/
 
 **Duke University**<br/>
 PhD Candidate in Statistical Science, Fall 2018 - Present<br/>
-Advisor: Sayan Mukherjee<br/>
+Advisors: Sayan Mukherjee and Mike West<br/>
 
 **Duke University**<br/>
 Masters in Statistical Science, May 2017<br/>
