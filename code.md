@@ -3,6 +3,14 @@ layout: page
 title: Projects and Code
 permalink: /code/
 ---
+# Algorithmic Composition
+<!---
+Several ongoing projects focus on generative modeling of classical, orchestral music. The successful modeling of orchestral classical music is an important challenge with applications to many disciplines.  Orchestral classical music is a complex, multivariate time series that is highly structured, both temporally (in terms of melody) and vertically (in terms of harmony).  There are complex dependencies between different instruments, and thus there is a high level of structure both within the part of a single instrument and between instruments.  Music is a long-memory process, with long-term structure over multiple minutes in full orchestral works.  Additionally, the modeling of music is challenging from a data perspective, as there is very little labeled data and it is expensive to obtain, necessitating unsupervised approaches.  Audio data, in particular, while of high interest, is challenging to annotate and label in its raw form. However, music theory provides a source of *ground truth* to assess and validate results.
+-->
+
+Several recent projects focus on generative modeling of classical, orchestral music, using state space models, factorial Hidden Markov Models ([Code](https://github.com/aky4wn/Sta863_FHMM)) and dynamic dependency networks  ([Generated Sample]({{ site.url }}/DDNM.mp3)).  Music is interesting from a modeling perspective as music is a long-memory process, with long-term structure over multiple minutes in full orchestral works and is additionally challenging from a data perspective, as there is very little labeled data, necessitating unsupervised approaches.
+
+- A.K. Yanchenko and S. Mukherjee. **Classical Music Composition Using State Space Models.** 2018.  [[arXiv](https://arxiv.org/abs/1708.03822) \| [website](https://aky4wn.github.io/Classical-Music-Composition-Using-State-Space-Models/) \| [code](https://github.com/aky4wn/Classical-Music-Composition-Using-State-Space-Models)]
 
 
 ## Network Analysis of Concert Programming
@@ -13,8 +21,18 @@ Additive and Multiplicative Effects network models are applied to the Boston Sym
 This project explores the use of Adversarially Learned Inference (ALI) to learn musically meaningful embeddings of orchestral audio data. The goal of this project is to develop a musically meaningful latent representation of orchestral audio recordings that could be used in later generative modeling tasks. The learned embeddings are evaluated on a downstream task of
 composer classification. Overall, the adversarially learned inference models explored do not outperform baseline approaches on this classification task, but are able to recover some high-level musically meaningful features in the latent space. Learning a meaningful embedding for audio data remains an open problem and a challenging task. [Report]({{ site.url }}/report.pdf), [Presentation]({{ site.url }}/presentation.pdf) and [Code](https://github.com/aky4wn/Symphony2vec). Code written in ``PyTorch`` and ``Python``.
 
+## Code and Programming Languages
+Accompanying code can be found on [GitHub](https://github.com/aky4wn/).
+- `Python``
+- `R``
+- `PyTorch``
+- `Matlab``
+
+
+<!---
 ## Music Composition - Independent Study
 This project extends some of the previous HMM work for music composition as an independent study by Yuheng (Karl) Ma, as a visiting student at Duke.  I helped mentor this independent study and Karl's code and final report can be found on [GitHub](https://github.com/aky4wn/Music_Composition-Independent_Study). Code written in ``Python``.
+
 
 ## Music Generation with Factorial Hidden Markov Models
 This project explores the use of Factorial Hidden Markov Models (FHMMs) to compose classical piano music.  Three different inference algorithms are implemented and compared. The generated pieces tend to be more "original" than pieces generated with basic hidden Markov models, however, the generated pieces still lack  long-term structure.  [Code](https://github.com/aky4wn/Sta863_FHMM), [Report]({{ site.url }}/Yanchenko_FHMM_Report.pdf), [Generated Sample 1]({{ site.url }}/pachelbel_FHMM-GAM.mp3) and [Generated Sample 2]({{ site.url }}/pachelbel_FHMM-SVI.mp3). Code written in ``Python``.
@@ -33,6 +51,6 @@ Latent Dirichlet Allocation is implemented from scratch in Python. The implement
 
 ## R Coding Projects
 Various R programming projects, including predicting US airline delays ([Code](https://github.com/aky4wn/Predictive-Modeling---Airline-Delays)), comparing NYC boroughs ([Code](https://github.com/aky4wn/NYC-Boroughs-Modeling)), building a simple Shiny application ([Code](https://github.com/aky4wn/Shiny-Bayesian-Analysis)), exploring grpahs in R ([Code](https://github.com/aky4wn/Graphs-in-R)) and using web scraping methods to analyze the locations of restaurants and hotels ([Code](https://github.com/aky4wn/Web-Scraping)). Code written in ``R``.
+-->
 
 
-Accompanying code can be found on [GitHub](https://github.com/aky4wn/).
