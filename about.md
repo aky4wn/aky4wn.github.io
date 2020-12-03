@@ -4,8 +4,8 @@ title: About
 permalink: /about/
 ---
 
-
-<a href="url"><img src="https://aky4wn.github.io/Anna Yanchenko  002.jpg" height="auto" width="300" style="border-radius:50%;float: right" hspace="20"></a>
+<!-- <a href="url"><img src="https://aky4wn.github.io/Anna Yanchenko  002.jpg" height="auto" width="300" style="border-radius:50%;float: right" hspace="20"></a> -->
+<a href="url"><img src="https://aky4wn.github.io/Anna Yanchenko  002.jpg" height="auto" width="300" style="float: right" hspace="20"></a>
 
 ## Education
 
