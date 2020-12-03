@@ -14,14 +14,15 @@ Several recent projects focus on generative modeling of classical, orchestral mu
 
 
 ## Network Analysis of Concert Programming
-Additive and Multiplicative Effects network models are applied to the Boston Symphony Orchestra's concert programming. Composer level effects are explored to determine which traits make two composers more likely to be programmed in the same concert together. [arXiv](https://arxiv.org/abs/2009.07887) and [Code](https://github.com/aky4wn/Network-Programming).  This work was also presented as a poster at the Women in Machine Learning Workshop co-located at NeurIPS 2019 in Vancouver  ([Poster]({{ site.url }}/poster.pdf)). Code written in ``R``.
+Additive and Multiplicative Effects network models are applied to the Boston Symphony Orchestra's concert programming. Composer level effects are explored to determine which traits make two composers more likely to be programmed in the same concert together. This work was presented as a poster at the Women in Machine Learning Workshop co-located at NeurIPS 2019 in Vancouver ([Poster]({{ site.url }}/poster.pdf)). 
+
+- A. K. Yanchenko. **Network Analysis of Orchestral Concert Programming.** 2020. [[arXiv](https://arxiv.org/abs/2009.07887)  \| [code](https://github.com/aky4wn/Network-Programming)]
 
 
 ## Symphony2vec: Learning Musically Meaningful Embeddings for Orchestral Audio Data
-This project explores the use of Adversarially Learned Inference (ALI) to learn musically meaningful embeddings of orchestral audio data. The goal of this project is to develop a musically meaningful latent representation of orchestral audio recordings that could be used in later generative modeling tasks. The learned embeddings are evaluated on a downstream task of
-composer classification. Overall, the adversarially learned inference models explored do not outperform baseline approaches on this classification task, but are able to recover some high-level musically meaningful features in the latent space. Learning a meaningful embedding for audio data remains an open problem and a challenging task. [Report]({{ site.url }}/report.pdf), [Presentation]({{ site.url }}/presentation.pdf) and [Code](https://github.com/aky4wn/Symphony2vec). Code written in ``PyTorch`` and ``Python``.
+This project explores the use of Adversarially Learned Inference (ALI) to learn musically meaningful embeddings of orchestral audio data. The learned embeddings are evaluated on a downstream task of composer classification. Overall, the adversarially learned inference models explored do not outperform baseline approaches on this classification task, but are able to recover some high-level musically meaningful features in the latent space.  [Presentation]({{ site.url }}/presentation.pdf) and [Code](https://github.com/aky4wn/Symphony2vec). 
 
-## Code and Programming Languages
+## Code 
 Accompanying code can be found on [GitHub](https://github.com/aky4wn/).
 - ``Python``
 - ``R``
