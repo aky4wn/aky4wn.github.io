@@ -16,7 +16,7 @@ permalink: /publications/
 
 # Publications
 
-- A.K. Yanchenko and P.D. Hoff. **Hierarchical Multidimensional Scaling for the Comparison of Musical Performance Styles.** *Annals of Applied Statistics*, 14(4):1581-1603, 2020. [[DOI] (https://projecteuclid.org/euclid.aoas/1608346888) \| [arXiv](https://arxiv.org/abs/2004.13870) \| [code](https://github.com/aky4wn/HMDS)]
+- A.K. Yanchenko and P.D. Hoff. **Hierarchical Multidimensional Scaling for the Comparison of Musical Performance Styles.** *Annals of Applied Statistics*, 14(4):1581-1603, 2020. [[DOI](https://projecteuclid.org/euclid.aoas/1608346888) \| [arXiv](https://arxiv.org/abs/2004.13870) \| [code](https://github.com/aky4wn/HMDS)]
 
 - B. Bullough, A.K. Yanchenko, C. Smith, and J. Zipkin. **Prediciting Exploitation of Disclosed Software Vulnerabilities Using Open-Source Data.** *Proceedings of the 3rd ACM on International Workshop on Security and Privacy Analystics*, 2017. [[arXiv](https://arxiv.org/abs/1707.08015)]
 
