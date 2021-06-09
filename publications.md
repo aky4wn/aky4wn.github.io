@@ -6,6 +6,8 @@ permalink: /publications/
 
 # Preprints
 
+- A. K. Yanchenko, M. Soltani, R. Ravier, S. Mukherjee and V. Tarokh. **Towards Explainable Convolutional Features for Music Audio Modeling.** 2021 (submitted). [[arXiv](https://arxiv.org/abs/2106.00110)  \| [code](https://github.com/aky4wn/convolutions-for-music-audio)]
+
 - A.K. Yanchenko, D. Deng, J. Li, A.J. Cron and M. West. **Hierarchical Dynamic Modeling for Bayesian Individualized Forecasting.** 2021 (submitted). [[arXiv](https://arxiv.org/abs/2101.03408)]
 
 - A. K. Yanchenko. **Network Analysis of Orchestral Concert Programming.** 2020. [[arXiv](https://arxiv.org/abs/2009.07887)  \| [code](https://github.com/aky4wn/Network-Programming)]
