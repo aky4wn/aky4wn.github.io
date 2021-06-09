@@ -24,11 +24,11 @@ This project focuses on personalized forecasting of many time series in a retail
 
 - A.K. Yanchenko, D. Deng, J. Li, A.J. Cron and M. West. **Hierarchical Dynamic Modeling for Bayesian Individualized Forecasting.** 2021 (submitted). [[arXiv](https://arxiv.org/abs/2101.03408)]
 
-## Stanza
+<!--- ## Stanza
 
 ![](Lorenz-r=5.png){:style="float: right; height="40%" width="40%"}
 Stanza is a nonlinear, non-stationary state space model designed to balance competitive forecasting accuracy and probabilistic, interpretable inference for structured time series. Stanza is intended as an intermediate approach between traditional state space models and full attention-based deep learning approaches.   
-
+-->
 
 
 - A.K. Yanchenko and S. Mukherjee. **Stanza: A Nonlinear State Space Model for Probabilistic Inference in Non-Stationary Time Series.** 2020. [[arXiv](https://arxiv.org/abs/2006.06553)]
