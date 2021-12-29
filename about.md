@@ -10,8 +10,9 @@ permalink: /about/
 ## Education
 
 **Duke University**<br/>
-PhD Candidate in Statistical Science, Fall 2018 - Present<br/>
-Advisors: Sayan Mukherjee and Mike West<br/>
+PhD in Statistical Science, Fall 2018 - December 2021 <br/>
+Dissertation: *Hierarchical Time Series Modeling with Business and Audio Applications* <br/>
+Advisors: Mike West and Sayan Mukherjee<br/>
 
 **Duke University**<br/>
 Masters in Statistical Science, May 2017<br/>
