@@ -4,8 +4,6 @@ title: Publications
 permalink: /publications/
 ---
 
-# Preprints
-
 - A. K. Yanchenko, G. Tierney, J. Lawson, C. Hellmayr, A. Cron and M. West. **Multivariate Dynamic Modeling for Bayesian Forecasting of Business Revenue.** 2021 (submitted). [[arXiv](https://arxiv.org/abs/2112.05678)]
 
 - A. K. Yanchenko, M. Soltani, R. Ravier, S. Mukherjee and V. Tarokh. **A Methodology for Exploring Deep Convolutional Features in Relation to Hand-Crafted Features with an Application to Music Audio Modeling
