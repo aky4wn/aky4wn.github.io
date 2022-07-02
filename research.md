@@ -4,7 +4,7 @@ title: Research
 permalink: /research/
 ---
 
-My current research projects focus on probabilistic modeling for structured time series, with applications for audio data and retail demand forecasting.  I am particularly interested in developing time series models that accurately represent uncertainty, while achieving high forecast accuracy.
+My recent research projects have focused on probabilistic modeling for structured time series, with applications for audio data and retail demand forecasting.  I am particularly interested in developing time series models that accurately represent uncertainty, while achieving high forecast accuracy.
 
 
 ## Hierarchical Multidimensional Scaling
