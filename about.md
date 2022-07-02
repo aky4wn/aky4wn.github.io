@@ -10,7 +10,7 @@ permalink: /about/
 ## Education
 
 **Duke University**<br/>
-PhD in Statistical Science, Fall 2018 - December 2021 <br/>
+PhD in Statistical Science, December 2021 <br/>
 Dissertation: *Hierarchical Time Series Modeling with Business and Audio Applications* <br/>
 Advisors: Mike West and Sayan Mukherjee<br/>
 
@@ -28,4 +28,4 @@ Phi Beta Kappa<br/>
 - Probabilistic Machine Learning
 - Time Series Analysis and Modeling
 - Bayesian Inference and Uncertainty Quantification
-- Audio Modeling
+- Hierarchical Modeling
