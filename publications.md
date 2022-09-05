@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-- A. K. Yanchenko, G. Tierney, J. Lawson, C. Hellmayr, A. Cron and M. West. **Multivariate Dynamic Modeling for Bayesian Forecasting of Business Revenue.** 2021 (submitted). [[arXiv](https://arxiv.org/abs/2112.05678)]
+- A. K. Yanchenko, G. Tierney, J. Lawson, C. Hellmayr, A. Cron and M. West. **Multivariate Dynamic Modeling for Bayesian Forecasting of Business Revenue (with discussion).** *Applied Stochastic Models in Business and Industry* 2022. [[arXiv](https://arxiv.org/abs/2112.05678)]
 
 - A. K. Yanchenko, M. Soltani, R. Ravier, S. Mukherjee and V. Tarokh. **A Methodology for Exploring Deep Convolutional Features in Relation to Hand-Crafted Features with an Application to Music Audio Modeling
 .** 2021. [[arXiv](https://arxiv.org/abs/2106.00110)  \| [code](https://github.com/aky4wn/convolutions-for-music-audio)]
