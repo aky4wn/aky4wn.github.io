@@ -9,7 +9,7 @@ permalink: /publications/
 - A. K. Yanchenko, M. Soltani, R. Ravier, S. Mukherjee and V. Tarokh. **A Methodology for Exploring Deep Convolutional Features in Relation to Hand-Crafted Features with an Application to Music Audio Modeling
 .** 2021. [[arXiv](https://arxiv.org/abs/2106.00110)  \| [code](https://github.com/aky4wn/convolutions-for-music-audio)]
 
-- A.K. Yanchenko, D. Deng, J. Li, A.J. Cron and M. West. **Hierarchical Dynamic Modeling for Bayesian Individualized Forecasting.** 2021 (submitted). [[arXiv](https://arxiv.org/abs/2101.03408)]
+- A.K. Yanchenko, D. Deng, J. Li, A.J. Cron and M. West. **Hierarchical Dynamic Modeling for Bayesian Individualized Forecasting.** 2021 (submitted). [[arXiv](https://arxiv.org/abs/2101.03408) \| [code](https://github.com/aky4wn/HH-modeling)]
 
 - A.K. Yanchenko and P.D. Hoff. **Hierarchical Multidimensional Scaling for the Comparison of Musical Performance Styles.** *Annals of Applied Statistics*, 14(4):1581-1603, 2020. [[DOI](https://projecteuclid.org/euclid.aoas/1608346888) \| [arXiv](https://arxiv.org/abs/2004.13870) \| [code](https://github.com/aky4wn/HMDS)]
 
