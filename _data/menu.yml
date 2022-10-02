@@ -1,14 +1,14 @@
 - title: "About"
   href: "/about/"
   
-- title: "Research"
-  href: "/research/"  
+#- title: "Research"
+#  href: "/research/"  
   
 - title: "Publications"
   href: "/publications/"
   
-- title: "Projects and Code"
-  href: "/code/"
+#- title: "Projects and Code"
+#  href: "/code/"
   
 
 
